@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-parte1",
+  "version": "1.0.0",
+  "description": "Node.js Parte 1: Inovando com JavaScript no backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoBraz/nodejs-parte1.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "Back-End"
+  ],
+  "author": "Gustavo Braz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoBraz/nodejs-parte1/issues"
+  },
+  "homepage": "https://github.com/GustavoBraz/nodejs-parte1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
