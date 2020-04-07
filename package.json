@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/GustavoBraz/nodejs-parte1#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "marko": "^4.19.10",
     "sqlite3": "^4.1.1"
